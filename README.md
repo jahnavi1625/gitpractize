@@ -1,3 +1,3 @@
 # gitpractize
-<p>yeah i am done</p>
+<p>i am done</p>
 <h3>Readme</h3>
